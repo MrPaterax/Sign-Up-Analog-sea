@@ -1,0 +1,97 @@
+*{
+	font-family: 'Raleway', sans-serif;	
+}
+
+body {
+	background-color: #1E90FF;
+}
+/*AnalogSea logo */
+img {
+	height: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 55px;
+}
+/*End of logo*/
+form {
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border: 1px solid white;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #F8F8FF;
+	border-radius: 3px;
+	margin-top: 10px;
+}
+h1 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	color: #778899;
+}
+fieldset {
+	border: none;
+}
+input {
+	height: 25px;
+	width: 320px;
+}
+label {
+	font-weight: bolder;
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+button{
+	height: 50px;
+	width: 355px;
+	margin-top: 50px;
+	background-color: #00FF7F;
+	position: relative;
+	cursor: pointer;
+	color: white;
+	font-size: 17px;
+	font-weight: bolder;
+}
+button:hover {
+	background-color: #3CB371;
+}
+h2 {
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
+	top: -5px;
+	left: 135px; 
+}
+/*For the box models sign up buttons and fields to fill out*/
+.Inputs {
+	border: 2px solid grey;
+	border-radius: 3px;
+	padding: 15px;
+}
+/*End of signup/fill out field box models*/
+h3 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 280px;
+}
+a {
+	display: block;
+	width: 150px;
+	margin-left: auto; 
+	margin-right: auto;
+	color: #708090;
+	font-size: 15px;
+	text-decoration: none; 
+	margin-bottom: 50px;
+}
+a:hover {
+	text-decoration: underline;
+}
+.Signin {
+	display: inline;
+	color: #FFFAFA;
+}
